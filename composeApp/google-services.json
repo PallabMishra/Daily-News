@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356031016342",
+    "project_id": "dailynews-d6cc4",
+    "storage_bucket": "dailynews-d6cc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356031016342:android:ae0d884ab0d2f30d0b01b7",
+        "android_client_info": {
+          "package_name": "com.kmpnewsapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBghYSKNOhdjLTRfTHZZhKkz4Xm6auFr0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
