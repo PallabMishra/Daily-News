@@ -24,7 +24,7 @@ Welcome to the **Daily News App**, in Kotlin Multiplatform (KMP) application.
 ---
 | Light Theme | Dark Theme |
 | :---: | :---: |
-| ![Splash Light](c:\Users\KIIT\OneDrive\Desktop\Screenshot_20260318_035739.png) | ![Splash Dark](c:\Users\KIIT\OneDrive\Desktop\Screenshot_20260318_034040.png) |
+| ![Splash Light](screenshots/Screenshot_20260318_035739.png) | ![Splash Dark](screenshots/Screenshot_20260318_034040.png) |
 
 *   **Auto-Login**: Skips the login screen and takes you directly to the dashboard if you have logged in before.
 *   **Saved Sessions**: Automatically checks for your user info in the background.
@@ -34,7 +34,7 @@ Welcome to the **Daily News App**, in Kotlin Multiplatform (KMP) application.
 ---
 | Light Theme | Dark Theme |
 | :---: | :---: |
-| ![Login Light](c:\Users\KIIT\OneDrive\Desktop\Screenshot_20260318_035648.png) | ![Login Dark](c:\Users\KIIT\OneDrive\Desktop\Screenshot_20260318_034236.png) |
+| ![Login Light](screenshots/Screenshot_20260318_035648.png) | ![Login Dark](screenshots/Screenshot_20260318_034236.png) |
 
 *   **Login**: Enter your username and password.
 *   **Hide/Show Password**: You can choose to show or hide your password while typing for better security.
@@ -44,7 +44,7 @@ Welcome to the **Daily News App**, in Kotlin Multiplatform (KMP) application.
 ---
 | Light Theme | Dark Theme |
 | :---: | :---: |
-| ![Signup Light](c:\Users\KIIT\OneDrive\Desktop\Screenshot_20260318_035618.png) | ![Signup Dark](c:\Users\KIIT\OneDrive\Desktop\Screenshot_20260318_034247.png) |
+| ![Signup Light](screenshots/Screenshot_20260318_035618.png) | ![Signup Dark](screenshots/Screenshot_20260318_034247.png) |
 
 *   **Easy Signup**: Quickly create a new account in a few steps.
 *   **Quick Checks**: Instantly shows if your email or password is incorrect.
@@ -54,7 +54,7 @@ Welcome to the **Daily News App**, in Kotlin Multiplatform (KMP) application.
 ---
 | Light Theme | Dark Theme |
 | :---: | :---: |
-| ![Dashboard Light](c:\Users\KIIT\OneDrive\Desktop\Screenshot_20260318_035501.png) | ![Dashboard Dark](c:\Users\KIIT\OneDrive\Desktop\Screenshot_20260318_035054.png) |
+| ![Dashboard Light](screenshots/Screenshot_20260318_035501.png) | ![Dashboard Dark](screenshots/Screenshot_20260318_035054.png) |
 
 *   **Top Headlines**: A sliding banner that shows the main news.
 *   **News Categories**: News is grouped into sections like Tech, Sports, and Health.
@@ -64,7 +64,7 @@ Welcome to the **Daily News App**, in Kotlin Multiplatform (KMP) application.
 ---
 | Light Theme | Dark Theme |
 | :---: | :---: |
-| ![Map Light](c:\Users\KIIT\OneDrive\Desktop\Screenshot_20260318_035426.png) | ![Map Dark](c:\Users\KIIT\OneDrive\Desktop\Screenshot_20260318_035200.png) |
+| ![Map Light](screenshots/Screenshot_20260318_035426.png) | ![Map Dark](screenshots/Screenshot_20260318_035200.png) |
 
 *   **City News**: Map markers show news from major cities in India.
 *   **Click to View**: Tap a city marker to see the top 5 news from that place.
@@ -74,7 +74,7 @@ Welcome to the **Daily News App**, in Kotlin Multiplatform (KMP) application.
 ---
 | Light Theme | Dark Theme |
 | :---: | :---: |
-| ![Profile Light](c:\Users\KIIT\OneDrive\Desktop\Screenshot_20260318_035351.png) | ![Profile Dark](c:\Users\KIIT\OneDrive\Desktop\Screenshot_20260318_035302.png) |
+| ![Profile Light](screenshots/Screenshot_20260318_035351.png) | ![Profile Dark](screenshots/Screenshot_20260318_035302.png) |
 
 *   **Profile Tool**: Select a photo from your phone or take a new one.
 *   **Safe Permissions**: Asks for permission before using the camera.
@@ -85,7 +85,7 @@ Welcome to the **Daily News App**, in Kotlin Multiplatform (KMP) application.
 ---
 | Light Theme |
 | :---: |
-| ![FCM ](c:\Users\KIIT\OneDrive\Desktop\Screenshot_2026-03-18-02-34-47-78_83a44065f5ce13c596c10eb1da52f6d5.jpg) |
+| ![FCM ](screenshots/Screenshot_2026-03-18-02-34-47-78_83a44065f5ce13c596c10eb1da52f6d5.jpg) |
 *   **Instant Alerts**: Get real-time notifications for important updates.
 *   **Latest News Updates**: Stay updated with breaking news instantly.
 *   **Smart Notifications**: Receive only relevant and useful alerts.
@@ -95,7 +95,7 @@ Welcome to the **Daily News App**, in Kotlin Multiplatform (KMP) application.
 ---
 | Light & Dark Theme |
 | :---: |
-| ![Demo Video](c:\Users\KIIT\OneDrive\Desktop\Record_2026-03-18-04-17-07.mp4) |
+| ![Demo Video](screenshots/Record_2026-03-18-04-17-07.mp4) |
 
 *   **Complete Walkthrough**: Shows all app features step by step.
 *   **Easy Understanding**: Helps users quickly learn how to use the app.
