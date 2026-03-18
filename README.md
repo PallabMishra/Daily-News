@@ -27,8 +27,7 @@ Welcome to the **Daily News App**, in Kotlin Multiplatform (KMP) application.
 | ![Splash Light](screenshots/Screenshot_20260318_035739.png) | ![Splash Dark](screenshots/Screenshot_20260318_034040.png) |
 
 *   **Auto-Login**: Skips the login screen and takes you directly to the dashboard if you have logged in before.
-*   **Saved Sessions**: Automatically checks for your user info in the background.
-*   **Fast Start**: Provides a smooth app opening.
+.
 
 ### 🔐 2. Authentication - Login
 ---
